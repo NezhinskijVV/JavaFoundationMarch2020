@@ -1,6 +1,6 @@
 package oop;
 
-public class Duck {
+public class Duck implements Cloneable {
     private String name;
     private String color;
     private boolean isDrake; //селезень
@@ -41,5 +41,10 @@ public class Duck {
     @Override
     public String toString() {
         return name;
+    }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
     }
 }
