@@ -3,10 +3,9 @@ package listPractice;
 import interfaces.Man;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
-public class ListPractice {
+public class ArrayListPractice {
 
     public static void main(String[] args) {
         List<Man> myList = new ArrayList<>();
@@ -31,6 +30,5 @@ public class ListPractice {
         for (int i = 0; i < myList.size(); i++) {
             System.out.print(myList.get(i).getAge() + " ");
         }
-
     }
 }
