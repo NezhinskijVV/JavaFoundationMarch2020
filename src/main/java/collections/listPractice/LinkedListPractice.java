@@ -1,9 +1,4 @@
-package listPractice;
-
-import interfaces.Man;
-
-import java.util.ArrayList;
-import java.util.List;
+package collections.listPractice;
 
 public class LinkedListPractice {
     public static void main(String[] args) {

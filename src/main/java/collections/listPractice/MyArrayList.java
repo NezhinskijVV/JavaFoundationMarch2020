@@ -1,4 +1,4 @@
-package listPractice;
+package collections.listPractice;
 
 import java.util.Arrays;
 import java.util.Collection;

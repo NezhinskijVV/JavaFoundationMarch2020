@@ -1,4 +1,4 @@
-package listPractice;
+package collections.listPractice;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

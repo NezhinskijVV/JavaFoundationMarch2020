@@ -1,4 +1,4 @@
-package listPractice;
+package collections.listPractice;
 
 import interfaces.Man;
 import oop.Duck;

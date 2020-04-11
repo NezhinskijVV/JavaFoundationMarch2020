@@ -21,5 +21,6 @@ public class WorkWithStatic {
 
 //        ferrari.name ="lamborgini"; //ошибка компиляции
 //        lamborgini.name
+
     }
 }
