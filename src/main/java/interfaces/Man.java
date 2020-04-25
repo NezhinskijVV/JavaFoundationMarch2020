@@ -1,6 +1,8 @@
 package interfaces;
 
-public class Man implements Comparable<Man> {
+import java.io.Serializable;
+
+public class Man implements Comparable<Man>, Serializable {
     private String name;
     private int age;
 
